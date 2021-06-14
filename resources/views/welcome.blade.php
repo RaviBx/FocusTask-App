@@ -18,18 +18,16 @@
 
 
        
-        <div id="app">
-
-                <app></app>
-        </div>
+      <div id="app">
 
 
-    
+            <app></app>
+            
+
+      </div>
 
 
 
-
-        
         
     </body>
 
